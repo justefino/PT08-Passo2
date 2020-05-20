@@ -1,0 +1,4 @@
+p { /* Indica que iremos trabalhar no design de parágrafos */
+            text-align: center; /* Alinha o texto ao centro */
+            color: red; /* Define a cor da letra como "red" */
+         } /* Indica que já não trabalharemos no design de parágrafos */

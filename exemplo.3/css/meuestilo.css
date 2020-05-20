@@ -1,0 +1,4 @@
+.centro { /* Indica que iremos trabalhar no design da classe "centro" */
+            text-align: center; /* Alinha o texto ao centro */
+            color: red; /* Define a cor da letra como "red" */
+         } /* Indica que já não trabalharemos no design da classe "centro" */

@@ -1,0 +1,4 @@
+#paragrafo1 { /* Indica que iremos trabalhar no design do "paragrafo1" */
+           text-align: center; /* Alinha o texto ao centro */
+           color: red; /* Define a cor da letra como "red" */
+        } /* Indica que já não trabalharemos no design do "paragrafo1" */
